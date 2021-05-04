@@ -3,7 +3,7 @@
 <p align="center">Trata-se de um trabalho da faculdade na matéria de Programação Orientada a Objeto.</p>
 <p align="center">Com objetivo de mostrar o conhecimento de Programação Orientada a Objeto.</p>
 <p align="center">Sendo realizado em grupo( Rodrigo Limões - https://github.com/Rodrigo-Limoes, Eduardo Fialho - https://github.com/Darktotaled, Matheus Saldanha - https://github.com/MSaldanha15, 
-Aline Raquel - , Fernando -)</p>
+Aline Raquel - https://github.com/aliners28?tab=repositories , Fernando -)</p>
 
 # Requisitos
 
